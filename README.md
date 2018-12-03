@@ -1,6 +1,6 @@
 # sample-repo
 
-Last edited: 3 Dec
+Last edited: 3 December
 
 This is a sample repo to learn how to ise Github.
 
